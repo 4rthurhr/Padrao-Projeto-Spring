@@ -14,4 +14,7 @@ public interface ClientService {
 
 	void deletar(Long id);
 
+	void inserir(ClientModel cliente);
+
+
 }
